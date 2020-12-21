@@ -2,8 +2,36 @@
 Coding exercises from Introduction to Java Programming 10e - Liang
 
 ## Chapters: 
-- **Chapter 01** -- *Introduction to Computers, Programs, and Java*
-- **Chapter 02** -- *Elementary Programming*
-- **Chapter 03** -- *Selections*
-- **Chapter 04** -- *Mathematical Functions, Characters, and Strings*
-
+- **Chapter 01** -- *Introduction to Computers, Programs, and Java* (In Progress)
+- **Chapter 02** -- *Elementary Programming* (Pending)
+- **Chapter 03** -- *Selections* (Pending)
+- **Chapter 04** -- *Mathematical Functions, Characters, and Strings* (Pending)
+- **Chapter 05** -- *Loops* (Pending)
+- **Chapter 06** -- *Methods* (Pending)
+- **Chapter 07** -- *Single-Dimensional Arrays* (Pending)
+- **Chapter 08** -- *Multidimensional Arrays* (Pending)
+- **Chapter 09** -- *Objects and Classes* (Pending)
+- **Chapter 10** -- *Object-Oriented Thinking* (Pending)
+- **Chapter 11** -- *Inheritance and Polymorphism* (Pending)
+- **Chapter 12** -- *Exception Handling and Text I/O* (Pending)
+- **Chapter 13** -- *Abstract Classes and Interfaces* (Pending)
+- **Chapter 14** -- *JavaFX Basics* (Pending)
+- **Chapter 15** -- *Event-Driven Programming and Animations* (Pending)
+- **Chapter 16** -- *JavaFX UI Controls and Multimedia* (Pending)
+- **Chapter 17** -- *Binary I/O* (Pending)
+- **Chapter 18** -- *Recursion* (Pending)
+- **Chapter 19** -- *Generics* (Pending)
+- **Chapter 20** -- *Lists, Stacks, Queues, Priority Queues* (Pending)
+- **Chapter 21** -- *Sets and Maps* (Pending)
+- **Chapter 22** -- *Developing Efficient Algorithms* (Pending)
+- **Chapter 23** -- *Sorting* (Pending)
+- **Chapter 24** -- *Implementing Lists, Stacks, Queues, and Priority Queues* (Pending)
+- **Chapter 25** -- *Binary Search Trees* (Pending)
+- **Chapter 26** -- *AVL Trees* (Pending)
+- **Chapter 27** -- *Hashing* (Pending)
+- **Chapter 28** -- *Graphs and Applications* (Pending)
+- **Chapter 29** -- *Weighted Graphs and Applications* (Pending)
+- **Chapter 30** -- *Multithreading and Parallel Programming* (Pending)
+- **Chapter 31** -- *Networking* (Pending)
+- **Chapter 32** -- *Java Database Programming* (Pending)
+- **Chapter 33** -- *JavaServer Faces* (Pending)
